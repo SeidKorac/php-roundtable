@@ -2,7 +2,7 @@
 
 name = "php-roundtable"
 client_id = "c01fa427fef81cdcca31ac25cb803455"
-application_url = "https://milton-procedures-temporarily-derived.trycloudflare.com"
+application_url = "https://vbulletin-jewelry-naval-driven.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://milton-procedures-temporarily-derived.trycloudflare.com/auth/callback",
-  "https://milton-procedures-temporarily-derived.trycloudflare.com/auth/shopify/callback",
-  "https://milton-procedures-temporarily-derived.trycloudflare.com/api/auth/callback"
+  "https://vbulletin-jewelry-naval-driven.trycloudflare.com/auth/callback",
+  "https://vbulletin-jewelry-naval-driven.trycloudflare.com/auth/shopify/callback",
+  "https://vbulletin-jewelry-naval-driven.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
